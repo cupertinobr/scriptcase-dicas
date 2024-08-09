@@ -1,4 +1,4 @@
-# Atualização - Forma Indicada
+# Atualização - método comprovado
 
 NÃO ATUALIZE DA <= 9.9.014 DIRETO PRA 9.10. Só atualize direto no menu do sc se estiver na v9.9.024
 
@@ -24,4 +24,4 @@ Quando chegar na 9.9.015 vais ver muita coisa modificada, e daqui não dá mais 
 
 Se vc fizer um salto de versão da 9.9.ploquinhos pra 9.10 é obvio q vai dar problema geral.
 
-Creditos: Clark 
+Creditos: Clarck 
