@@ -1,4 +1,4 @@
-# Atualização 
+# Atualização - Forma Indicada
 
 NÃO ATUALIZE DA <= 9.9.014 DIRETO PRA 9.10. Só atualize direto no menu do sc se estiver na v9.9.024
 
@@ -12,9 +12,7 @@ baixe o zip de cada versão lançada depois da versão que vc tem e siga os segu
 3 - gere todas as apps. MUITO IMPORTANTE ESSE PASSO
 4 - limpe cache e historico. de preferência use o navegador Firefox DEV
 
-Vai fazendo a mesma coisa em todos os zip de versão q vc baixou.
-
-Só assim não vai ter problema.
+Vai fazendo a mesma coisa em todos os zip de versão q vc baixou só assim não vai ter problema.
 
 Cada versão tem seus fix de bug e atualização de parâmetros e campos do prórprio db e de parâmetros de apps. Por esse motivo é q tens q passar uma a uma todas as versões.
 
