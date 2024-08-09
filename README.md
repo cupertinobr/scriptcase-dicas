@@ -1,4 +1,4 @@
 # Dicas para usuários do Scriptcase 
 
 
-O repostórios é publico e todos podem contribuir. 
+O repostório é público e todos podem contribuir. 
